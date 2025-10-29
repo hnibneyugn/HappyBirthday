@@ -20,7 +20,7 @@ openVideoButton.addEventListener('click', function() {
             title: '🎉 Chúc mừng! 🎉',
             html: `
                 <img src="img/voucher.jpg" style="width: 200px; border-radius: 10px; margin-top: 10px;">
-                <p>Bạn đã nhận được voucher bao ăn trị giá 100k :D!</p>
+                <p>Bạn đã nhận được một chiếc lắc tay xinh xắn và một voucher bao ăn trị giá 100k :D!</p>
                 <p class="expire" style = "margin-top: 15px">Hạn sử dụng: 20/11/2025</p>`,
             background: '#f9f9f9',
             confirmButtonText: 'Sử dụng',
