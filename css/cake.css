@@ -56,7 +56,7 @@ body {
     width: 14px;
     height: 80px;
     top: 90px;
-    background: linear-gradient(to bottom, #ffb6c1, #ff85a2);
+    background: linear-gradient(#ff8fab, #ffb6c1, #ffd1dc);
     border-radius: 7px;
     box-shadow: 0 0 5px rgba(0,0,0,0.3);
     animation: drop 1.3s ease-in-out forwards;
